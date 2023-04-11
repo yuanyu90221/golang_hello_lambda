@@ -3,7 +3,7 @@
 ## prerequest
 
 1. run up a localstack
-2. brew install awslocal
+2. pip install awslocal
 
 ## usage
 
